@@ -1,0 +1,5 @@
+c:\users\mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.Model\bin\Debug\InnovativeSecurityManagement.Model.dll
+c:\users\mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.Model\bin\Debug\InnovativeSecurityManagement.Model.pdb
+c:\users\mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.Model\obj\Debug\InnovativeSecurityManagement.Model.csprojResolveAssemblyReference.cache
+c:\users\mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.Model\obj\Debug\InnovativeSecurityManagement.Model.dll
+c:\users\mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.Model\obj\Debug\InnovativeSecurityManagement.Model.pdb

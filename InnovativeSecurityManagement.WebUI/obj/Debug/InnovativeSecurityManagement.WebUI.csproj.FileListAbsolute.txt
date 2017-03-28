@@ -1,0 +1,1 @@
+c:\users\mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.WebUI\obj\Debug\InnovativeSecurityManagement.WebUI.csprojResolveAssemblyReference.cache

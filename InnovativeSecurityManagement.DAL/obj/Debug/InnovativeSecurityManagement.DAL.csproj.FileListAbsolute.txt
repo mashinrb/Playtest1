@@ -1,0 +1,1 @@
+c:\users\mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\obj\Debug\InnovativeSecurityManagement.DAL.csprojResolveAssemblyReference.cache
