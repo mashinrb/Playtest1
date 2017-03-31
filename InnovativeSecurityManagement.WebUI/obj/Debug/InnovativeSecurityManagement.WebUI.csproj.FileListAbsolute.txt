@@ -98,3 +98,6 @@ C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagm
 C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
 C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
 C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.WebUI\obj\Debug\InnovativeSecurityManagement.WebUI.Migrations.InitialCreate.resources
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.WebUI\obj\Debug\InnovativeSecurityManagement.WebUI.csproj.GenerateResource.Cache
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.WebUI\obj\Debug\InnovativeSecurityManagement.WebUI.Migrations.Registerfirstandlastname.resources

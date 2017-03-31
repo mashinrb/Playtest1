@@ -25,7 +25,15 @@ namespace InnovativeSecurityManagement.WebUI
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/AdminLTE.min.css",
+                      "~/Content/skins/_all-skins.min.css"));
+
+            bundles.Add(new ScriptBundle("~/bundles/Admin").Include(
+                      "~/Scripts/slimScroll/jquery.slimscroll.min.js",
+                      "~/Scripts/fastclick/fastclick.js",
+                      "~/Scripts/app.min.js"
+
+                     ));
         }
     }
 }

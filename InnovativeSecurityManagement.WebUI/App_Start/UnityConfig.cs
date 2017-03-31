@@ -4,6 +4,11 @@ using Microsoft.Practices.Unity.Configuration;
 using InnovativeSecurityManagement.Contracts.Repositories;
 using InnovativeSecurityManagement.Model;
 using InnovativeSecurityManagement.DAL.Repositories;
+using InnovativeSecurityManagement.WebUI.Models;
+using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
+using System.Data.Entity;
+using InnovativeSecurityManagement.WebUI.Controllers;
 
 namespace InnovativeSecurityManagement.WebUI.App_Start
 {
@@ -44,6 +49,15 @@ namespace InnovativeSecurityManagement.WebUI.App_Start
             container.RegisterType<IRepositoryBase<Order>, OrderRepository>();
             container.RegisterType<IRepositoryBase<Contractor>, ContractorRepository>();
             container.RegisterType<IRepositoryBase<ContractorEmployee>, ContractorEmployeeRepository>();
+
+
+            //Idenitity 
+            container.RegisterType<IUserStore<ApplicationUser>, UserStore<ApplicationUser>>();
+            container.RegisterType<UserManager<ApplicationUser>>();
+            container.RegisterType<DbContext, ApplicationDbContext>();
+            container.RegisterType<ApplicationUserManager>();
+            container.RegisterType<AccountController>(new InjectionConstructor());
+            container.RegisterType<ManageController>(new InjectionConstructor());
         }
     }
 }
