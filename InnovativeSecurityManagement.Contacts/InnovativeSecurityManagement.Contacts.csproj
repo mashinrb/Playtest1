@@ -7,8 +7,8 @@
     <ProjectGuid>{FB1DDD45-09E5-4696-A234-E0A1AFD9C93F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>InnovativeSecurityManagement.Contacts</RootNamespace>
-    <AssemblyName>InnovativeSecurityManagement.Contacts</AssemblyName>
+    <RootNamespace>InnovativeSecurityManagement.Contracts</RootNamespace>
+    <AssemblyName>InnovativeSecurityManagement.Contracts</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repositories\IRepositoryBase.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositories\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

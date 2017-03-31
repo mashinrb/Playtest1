@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace InnovativeSecurityManagement.DAL.Data
 {
-    class DataContext: DbContext
+    public class DataContext: DbContext
     {
         /// <summary>
         /// you can either pass the NAME of a conenction string (e.g. from a web.config), and explicitly delcare it.

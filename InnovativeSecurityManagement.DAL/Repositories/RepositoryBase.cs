@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace InnovativeSecurityManagement.DAL.Repositories
 {
-  public class RepositoryBase<TEntity> : IRepositoryBase<TEntity> where TEntity: class
+   public abstract class RepositoryBase<TEntity> : IRepositoryBase<TEntity> where TEntity : class
     {
         internal DataContext context;
         internal DbSet<TEntity> dbSet;

@@ -1,1 +1,16 @@
 c:\users\mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\obj\Debug\InnovativeSecurityManagement.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\bin\Debug\InnovativeSecurityManagement.DAL.dll.config
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\bin\Debug\InnovativeSecurityManagement.DAL.dll
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\bin\Debug\InnovativeSecurityManagement.DAL.pdb
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\bin\Debug\InnovativeSecurityManagement.Contracts.dll
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\bin\Debug\InnovativeSecurityManagement.Model.dll
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\bin\Debug\InnovativeSecurityManagement.Contracts.pdb
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\bin\Debug\InnovativeSecurityManagement.Model.pdb
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\obj\Debug\InnovativeSecurityManagement.DAL.dll
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\obj\Debug\InnovativeSecurityManagement.DAL.pdb
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\obj\Debug\InnovativeSecurityManagement.DAL.Migrations.Inital.resources
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.DAL\obj\Debug\InnovativeSecurityManagement.DAL.csproj.GenerateResource.Cache

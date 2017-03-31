@@ -16,13 +16,12 @@ namespace InnovativeSecurityManagement.Model
         public string MiddleName { get; set; }
         public string LastName { get; set; }
 
-        [MaxLength(11)]
+        
         public int MobilePhone { get; set; }
 
-        [MaxLength(11)]
+       
         public int CompanyPhone { get; set; }
-
-        [MaxLength(11)]
+        
         public int ExtentionNumber { get; set; }
 
         [EmailAddress]

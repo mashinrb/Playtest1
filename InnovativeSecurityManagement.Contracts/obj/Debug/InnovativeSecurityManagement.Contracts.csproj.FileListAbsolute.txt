@@ -1,0 +1,4 @@
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.Contracts\bin\Debug\InnovativeSecurityManagement.Contracts.dll
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.Contracts\bin\Debug\InnovativeSecurityManagement.Contracts.pdb
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.Contracts\obj\Debug\InnovativeSecurityManagement.Contracts.dll
+C:\Users\Mashinrb\documents\visual studio 2015\Projects\InnovativeSecurityManagment\InnovativeSecurityManagement.Contracts\obj\Debug\InnovativeSecurityManagement.Contracts.pdb

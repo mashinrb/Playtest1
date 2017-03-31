@@ -1,4 +1,6 @@
-﻿using System;
+﻿using InnovativeSecurityManagement.Contracts.Repositories;
+using InnovativeSecurityManagement.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,6 +10,11 @@ namespace InnovativeSecurityManagement.WebUI.Controllers
 {
     public class HomeController : Controller
     {
+        IRepositoryBase<Employee> employees;
+        public HomeController(IRepositoryBase<Employee> employees)
+        {
+            this.employees = employees;
+        }
         public ActionResult Index()
         {
            
